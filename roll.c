@@ -54,7 +54,10 @@ int main()
  
 
 }
-		
+void main()
+
 	
+		
+
 
 			
